@@ -3,7 +3,6 @@ import Login from "./pages/Login.jsx";
 import Signup from "./pages/Signup.jsx";
 import Dashboard from "./pages/Dashboard.jsx";
 import ResumeBuilder from "./pages/ResumeBuilder.jsx";
-import ResumePreview from "./pages/ResumePreview.jsx";
 import PublicPortfolio from "./pages/PublicPortfolio.jsx";
 
 export default function App() {

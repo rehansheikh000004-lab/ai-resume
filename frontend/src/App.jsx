@@ -14,7 +14,6 @@ export default function App() {
         <Route path="/signup" element={<Signup />} />
         <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/builder" element={<ResumeBuilder />} />
-        <Route path="/preview" element={<ResumePreview />} />
         <Route path="/p/:slug" element={<PublicPortfolio />} />
       </Routes>
     </BrowserRouter>

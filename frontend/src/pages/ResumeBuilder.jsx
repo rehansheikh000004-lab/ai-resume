@@ -1,4 +1,3 @@
-import React from "react";
 import { useState, useEffect, useContext } from "react";
 import client from "../api/axiosClient";
 import { AuthContext } from "../auth/AuthContext";
